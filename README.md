@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ReactJS,React Native,HTML,PHP,...**
 
-- 💬 Ask me about **React Native,Redux,Laravel**
+- 💬 Ask me about **Laravel**
 
 - 📫 How to reach me **manhnguyen1238@gmail.com**
 
