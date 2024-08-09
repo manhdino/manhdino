@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NodeJS,React,GoLang,Docker,NginX,Kubernetes**
 
-- 💬 Ask me about **NodeJS,React,GoLang,Docker,NginX,Kubernetes**
+- 💬 Ask me about **NodeJS,React,React Native,Redux,GoLang,Docker,NginX,Kubernetes**
 
 - 📫 How to reach me **manhnguyen1238@gmail.com**
 
